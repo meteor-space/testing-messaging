@@ -1,7 +1,7 @@
 Package.describe({
   summary: 'BDD testing APIs for the space:messaging package',
   name: 'space:testing-messaging',
-  version: '0.1.0',
+  version: '3.0.0',
   git: 'https://github.com/meteor-space/testing-messaging.git',
   debugOnly: true
 });

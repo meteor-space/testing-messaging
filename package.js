@@ -18,6 +18,7 @@ Package.onUse(function(api) {
   ]);
 
   api.addFiles([
+    'source/allow-to-ignore-some-struct-types.js',
     'source/messaging-api-bdd-api.coffee'
   ], 'server');
 

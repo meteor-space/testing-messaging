@@ -29,7 +29,7 @@ Package.onTest(function(api) {
   api.use([
     'coffeescript',
     'check',
-    'space:testing',
+    'space:testing@3.0.1',
     'practicalmeteor:munit@2.1.5'
   ]);
 

@@ -1,6 +1,8 @@
 Changelog
 =========
 
-### 0.1.0
+### 3.0.0
 
-Initial release
+Initial release, version matching space:messaging
+
+- BDD api for testing Space.messaging.Api
